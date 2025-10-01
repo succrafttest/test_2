@@ -5,12 +5,16 @@
         <fullName>Active</fullName>
         <label>Active</label>
     </customValue>
-    <customValue>
-        <default>false</default>
-        <fullName>Inactive</fullName>
-        <label>Inactive</label>
-    </customValue>
-    <description>Test Global Picklist</description>
-    <masterLabel>Status</masterLabel>
-    <sorted>false</sorted>
+    <test>
+        <aaaa></aaaa>
+        <customValue>
+            <default>false</default>
+            <fullName>Inactive</fullName>
+            <label>Inactive</label>
+        </customValue>
+        <description>Test Global Picklist</description>
+        <masterLabel>Status</masterLabel>
+        <sorted>false</sorted>
+        <test></test>
+    </test>
 </GlobalValueSet>
